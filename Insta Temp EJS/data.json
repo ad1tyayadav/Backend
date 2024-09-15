@@ -1,0 +1,68 @@
+{
+    "Dhoni": {
+        "name": "Dhoni",
+        "followers": "990M",
+        "following": 0,
+        "posts": [
+            {
+                "image": "https://media.crictracker.com/media/attachments/1690693233589_MSD-with-IPL-trophy.jpeg",
+                "Likes": 835345255,
+                "Comments": 764734
+            },
+            {
+                "image": "https://c.ndtvimg.com/2022-06/p38nlu98_ms-dhoni-2013-champions-trophy-afp_625x300_23_June_22.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=675?im=FitAndFill=(800,400)",
+                "Likes": 23534255,
+                "Comments": 36736
+            },
+            {
+                "image": "https://rukminim2.flixcart.com/image/850/1000/poster/g/g/c/eurekadesigns-poster-m-s-dhoni-world-cup-trophy-edw10d258-medium-original-imae6czybwhufysc.jpeg?q=90&crop=false",
+                "Likes": 458455235,
+                "Comments": 67784
+            }
+        ]
+    },
+    "Virat": {
+        "name": "Virat",
+        "followers": "920.5M",
+        "following": 0,
+        "posts": [
+            {
+                "image": "https://crictoday.com/wp-content/uploads/2023/12/Virat-Kohli.webp",
+                "Likes": 345645255,
+                "Comments": 74734
+            },
+            {
+                "image": "https://crictoday.com/wp-content/uploads/2023/11/Virat-Kohli-10.webp",
+                "Likes": 2456255,
+                "Comments": 32136
+            },
+            {
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/08/18/b9619d4df6087cb9bb4284b4f262b411169233418308724_original.jpg?impolicy=abp_cdn&imwidth=650",
+                "Likes": 132555235,
+                "Comments": 634284
+            }
+        ]
+    },
+    "Jadeja": {
+        "name": "Jadeja",
+        "followers": "900M",
+        "following": 0,
+        "posts": [
+            {
+                "image": "https://cdn.siasat.com/wp-content/uploads/2023/09/Ravindra-Jadeja-sep15.jpg",
+                "Likes": 54645255,
+                "Comments": 64734
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpucDjHs68TrUZwoY2_rAJ5fB8RyVujUin8Q&usqp=CAU",
+                "Likes": 3534255,
+                "Comments": 45736
+            },
+            {
+                "image": "https://c.ndtvimg.com/2023-04/1nbje27g_ravindra-jadeja-bcci_625x300_13_April_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                "Likes": 132455235,
+                "Comments": 345784
+            }
+        ]
+    }
+}
